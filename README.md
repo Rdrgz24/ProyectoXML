@@ -1,6 +1,5 @@
 # ProyectoXML
-Práctica del tercer trimestre, uso de XML validado con estructura DTD y JS para funciones del cuestionario. 
-Temática: Calistenia.
+Práctica del tercer trimestre, uso de XML validado con estructura DTD y JS para funciones del cuestionario.
 
 ## Probando el cuestionario
 - El menú muestra un botón para comenzar, previamente seleccionar el idioma con el desplegable.
