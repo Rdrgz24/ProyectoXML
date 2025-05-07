@@ -1,4 +1,4 @@
-# ProyectoXML
+# Proyecto XML
 Práctica del tercer trimestre, uso de XML validado con estructura DTD y JS para funciones del cuestionario.
 
 ## Acceso al sitio alojado - GitHub Pages
