@@ -1,6 +1,9 @@
 # ProyectoXML
 Práctica del tercer trimestre, uso de XML validado con estructura DTD y JS para funciones del cuestionario.
 
+## Acceso al sitio alojado - GitHub Pages
+https://rdrgz24.github.io/ProyectoXML/
+
 ## Probando el cuestionario
 - El menú muestra un botón para comenzar, previamente seleccionar el idioma con el desplegable.
 - Comienzo de preguntas; elige la respuesta que creas y se marcará en azul, si quieres saber al instante si has acertado, dale al botón "Corregir" y saldrá en verde si es correcta o en rojo si no lo es.
